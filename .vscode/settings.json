@@ -1,0 +1,7 @@
+{
+    "maven.view": "flat",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/hhsie011/javafx-sdk-19/lib/javafx.base.jar"
+    ]
+}
